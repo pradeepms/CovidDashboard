@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Covid-Dashboard</string>
+    <string name="total_deaths">%1$s Total Deaths</string>
+    <string name="confirmed_cases">Confirmed Cases</string>
+    <string name="country_situation">%1$s\'s Situation in Numbers</string>
+    <string name="title">Latest Situation Reports</string>
+    <string name="generic_error_message">Something went wrong! Please try after sometime.</string>
+    <string name="invalid_location">Invalid Location!</string>
+    <string name="swipe_message">Swipe right to continue</string>
+    <string name="swipe_right">Swipe Right</string>
+    <string name="need_location">Need location permission!</string>
+</resources>
